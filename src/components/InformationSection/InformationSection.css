@@ -1,0 +1,12 @@
+article {
+    display: inline-block;
+}
+
+.centeredCards {
+    text-align: center;
+}
+
+.centeredCards .cardMargin {
+    margin-left: 1em;
+    margin-right: 1em;
+}
